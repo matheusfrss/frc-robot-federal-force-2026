@@ -33,8 +33,11 @@ Atuei como programador na equipe **Federal Force**, trabalhando principalmente c
 - Evolução técnica significativa na área de programação
 
 ## 📸 Demonstração
-<img width="688" height="402" alt="image" src="https://github.com/user-attachments/assets/4f066318-9ed6-4c8d-b0bb-9769d47af21a" />
-<img width="862" height="583" alt="image" src="https://github.com/user-attachments/assets/539f1037-c15d-4a6f-96ba-27d0fd0f4b3e" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4f066318-9ed6-4c8d-b0bb-9769d47af21a" width="300"/>
+  <img src="https://github.com/user-attachments/assets/539f1037-c15d-4a6f-96ba-27d0fd0f4b3e" width="300"/>
+</p>
 
 ## 📌 Status do projeto
 Finalizado após a temporada da FRC
