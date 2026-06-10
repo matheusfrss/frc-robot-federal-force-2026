@@ -1,6 +1,6 @@
 # Federal Force - FRC Programming
 
-Projeto desenvolvido durante a participação na FIRST Robotics Competition (FRC), uma das maiores competições de robótica do mundo.
+Projeto desenvolvido durante a participação na FIRST Robotics Competition (FRC) 2026, uma das maiores competições de robótica do mundo.
 
 ## 🏆 Sobre a competição
 A FRC desafia equipes a projetar, construir e programar robôs industriais em um curto período de tempo, aplicando conceitos de engenharia, programação e trabalho em equipe.
@@ -38,7 +38,3 @@ Atuei como programador na equipe **Federal Force**, trabalhando principalmente c
 
 ## 📌 Status do projeto
 Finalizado após a temporada da FRC
-
----
-
-💡 *Este projeto faz parte da minha jornada como desenvolvedor e estudante de tecnologia.*
