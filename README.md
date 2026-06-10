@@ -1,7 +1,4 @@
-# frc-robot-federal-force-2026
-robótica FRC desenvolvido com a equipe da Força Federal usando Java e WPILib, incluindo sistemas autônomos e controle de robôs em tempo real.
-
-# 🤖 Federal Force - FRC Programming
+# Federal Force - FRC Programming
 
 Projeto desenvolvido durante a participação na FIRST Robotics Competition (FRC), uma das maiores competições de robótica do mundo.
 
